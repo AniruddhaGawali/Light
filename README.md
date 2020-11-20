@@ -82,7 +82,11 @@ its still in developing, its an first genration of it. Some more add on to it wh
 - ### Some Screenshots:
 	[<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/img2.png" width="500">](https://github.com/AniruddhaGawali/light/blob/master/data/img/img2.png)
 	
+	
+	
 	[<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/img1.png" width="500">](https://github.com/AniruddhaGawali/light/blob/master/data/img/img1.png)
+	
+	
 	
 	[<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/img3.png" width="500">](https://github.com/AniruddhaGawali/light/blob/master/data/img/img3.png)
 	
