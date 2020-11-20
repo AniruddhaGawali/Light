@@ -38,6 +38,7 @@ class Chat_box(tk.Tk):
         tk.Tk.config(self,bg=bg_color)
         self.geometry('665x460')
         self.title('LIGHT')# Learning Inteligence of First(I) Generation for Handling Technology
+        self.wm_iconbitmap("data/img/icon.ico")
         self.config(bg=bg_color)
 
 
@@ -127,17 +128,11 @@ class Splash(tk.Toplevel):
         tk.Toplevel.config(self,bg=bg_color)
         self.geometry('665x450')
         self.title('LIGHT')# Learning Inteligence of First(I) Generation for Handling Technology
+        self.wm_iconbitmap("data/img/icon.ico")
         self.config(bg='#eff723')
         self.gif_play(self,'data/img/bulb.gif')
         loading=tk.Label(self,text='LOADING...',bg='#eff723',font='None 30')
         loading.pack()
-        # while True:
-        #     if loading['text']=='LOADING.':
-        #         loading['text']='LOADING..'
-        #     elif loading['text']=='LOADING..':
-        #         loading['text']='LOADING...'
-        #     elif loading['text']=='LOADING...':
-        #         loading['text']='LOADING.'
 
     def gif_play(self, parent,img):
         self.parent = parent
