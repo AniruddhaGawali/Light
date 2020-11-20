@@ -23,40 +23,44 @@ its still in developing, its an first genration of it. Some more add on to it wh
 	etc.....
 	
 - ### Installation:
+
 	- ##### Download 
+	
 		 - Download the repositorie by download button given below
 		 
-			 [<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/download1.png" width="170">](https://github.com/AniruddhaGawali/light/archive/master.zip)
+			 	[<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/download1.png" width="170">](https://github.com/AniruddhaGawali/light/archive/master.zip)
 		 
 		OR
 		 
 		 - Download by github by using comman
-			  ```bash
-git clone https://github.com/AniruddhaGawali/light.gitd
-```
-		 - ###### And unzip the downloaded folder  
-	- ##### Installing Modules
+			  	```bash
+				git clone https://github.com/AniruddhaGawali/light.gitd
+				```
+		 - ###### And unzip the downloaded folder 
+		 
+	- ##### Installing Modules:
+	
 		- open cmd/powershell as admin
 		
 		- go to the downloded folder 
 		
 		- add commad for admin activate
-		```shell
-Set-ExecutionPolicy Unrestricted -Force
-```
+			```shell
+			Set-ExecutionPolicy Unrestricted -Force
+			```
 		
 		- Add commad to activate the enviroment
-		```shell
-.\\light\Scripts\activate
-```
+			```shell
+			.\\light\Scripts\activate
+			```
 		
 		- Download module
-		```shell
-pip install -r requirements.txt
-```
+			```shell
+			pip install -r requirements.txt
+			```
 		
 	- ##### Run
 		```shell
-light.py 
-```
+		light.py 
+		```
 	
