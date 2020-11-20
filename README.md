@@ -34,7 +34,7 @@ its still in developing, its an first genration of it. Some more add on to it wh
 		
 		 - Download by github by using comman
 		 
-			  	```bash
+			 ```bash
 				git clone https://github.com/AniruddhaGawali/light.gitd
 				```
 		 - ###### And unzip the downloaded folder 
@@ -46,22 +46,36 @@ its still in developing, its an first genration of it. Some more add on to it wh
 		- go to the downloded folder 
 		
 		- add commad for admin activate
-			```shell
+			```bash
 			Set-ExecutionPolicy Unrestricted -Force
 			```
 		
 		- Add commad to activate the enviroment
-			```shell
+			```bash
 			.\\light\Scripts\activate
 			```
 		
 		- Download module
-			```shell
+			```bash
 			pip install -r requirements.txt
 			```
 		
 	- ##### Run
-		```shell
+		```bash
 		light.py 
 		```
+
+
+------------
+
+
+- ### What is AI (Artificial Intelligence):
+
+	A machine with the ability to perform cognitive functions such as perceiving, learning, reasoning and solve problems are deemed to hold an artificial intelligence. Artificial intelligence exists when a machine has cognitive ability. The benchmark for AI is the human level concerning reasoning, speech, and vision
+
+- ### About Chatterbot:
+	 ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. The language independent design of ChatterBot allows it to be trained to speak any language.
+	 
+	 To know more about it visit [Chatterbot Repo](http://https://github.com/gunthercox/ChatterBot "Chatterbot Repo")
 	
+
