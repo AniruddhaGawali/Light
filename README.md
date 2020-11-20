@@ -35,7 +35,7 @@ its still in developing, its an first genration of it. Some more add on to it wh
 		 - Download by github by using command
 		 
 			 ```bash
-				git clone https://github.com/AniruddhaGawali/light.gitd
+				gh repo clone AniruddhaGawali/light
 			 ```
 		 - ###### And unzip the downloaded folder 
 		 
