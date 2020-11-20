@@ -77,6 +77,6 @@ its still in developing, its an first genration of it. Some more add on to it wh
 - ### About Chatterbot:
 	 ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. The language independent design of ChatterBot allows it to be trained to speak any language.
 	 
-	 To know more about it visit [Chatterbot Repo](http://https://github.com/gunthercox/ChatterBot "Chatterbot Repo")
+	 To know more about it visit [Chatterbot Repo](https://github.com/gunthercox/ChatterBot)
 	
 
