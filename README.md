@@ -29,8 +29,8 @@ its still in developing, its an first genration of it. Some more add on to it wh
 		 - Download the repositorie by download button given below
 		 
 			 [<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/download1.png" width="170">](https://github.com/AniruddhaGawali/light/archive/master.zip)
-				
-##### 										OR
+			 
+			 							** OR **
 		 
 		 - Download by github by using comman
 		 
