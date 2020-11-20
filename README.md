@@ -26,4 +26,4 @@ its still in developing, its an first genration of it. Some more add on to it wh
 	- ##### Download 
 		 Download the repositorie by download button given below
      
-		 [<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/download.png" width="100">](https://github.com/AniruddhaGawali/light/archive/master.zip)
+		 [<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/download1.png" width="100">](https://github.com/AniruddhaGawali/light/archive/master.zip)
