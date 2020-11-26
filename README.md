@@ -1,4 +1,4 @@
-[<img src="data/img/img.png" width="220">](https://github.com/AniruddhaGawali/light)
+[<img src="data/img/img.png" width="300">](https://github.com/AniruddhaGawali/light)
 
 This is light a chatbot based on artificial intelligence. It's a great project make by python with help of tkinter and chatterbot module,its easy and simple UI with a contrastic black and gold colour. Ita also contain some command that will help in your work. 
 
