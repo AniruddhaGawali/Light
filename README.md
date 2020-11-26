@@ -1,4 +1,4 @@
-[<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/img.png" width="170">](https://github.com/AniruddhaGawali/light)
+[<img src="data/img/img.png" width="170">](https://github.com/AniruddhaGawali/light)
 
 This is light a chatbot based on artificial intelligence. It's a great project make by python with help of tkinter and chatterbot module,its easy and simple UI with a contrastic black and gold colour. Ita also contain some command that will help in your work. 
 
@@ -27,7 +27,7 @@ its still in developing, its an first genration of it. Some more add on to it wh
 	
 		 - Download the repositorie by download button given below
 		 
-			 [<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/download1.png" width="120">](https://github.com/AniruddhaGawali/light/archive/master.zip)	
+			 [<img src="data/img/download1.png" width="120">](https://github.com/AniruddhaGawali/light/archive/master.zip)	
 			 
 		**OR**
 		
@@ -79,15 +79,15 @@ its still in developing, its an first genration of it. Some more add on to it wh
 	 To know more about it visit [Chatterbot Repo](https://github.com/gunthercox/ChatterBot)
 	 
 - ### Some Screenshots:
-	[<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/img2.png" width="500">](https://github.com/AniruddhaGawali/light/blob/master/data/img/img2.png)
+	[<img src="data/img/img2.png" width="500">](https://github.com/AniruddhaGawali/light/blob/master/data/img/img2.png)
 	
 	
 	
-	[<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/img1.png" width="500">](https://github.com/AniruddhaGawali/light/blob/master/data/img/img1.png)
+	[<img src="data/img/img1.png" width="500">](https://github.com/AniruddhaGawali/light/blob/master/data/img/img1.png)
 	
 	
 	
-	[<img src="https://github.com/AniruddhaGawali/light/blob/master/data/img/img3.png" width="500">](https://github.com/AniruddhaGawali/light/blob/master/data/img/img3.png)
+	[<img src="data/img/img3.png" width="500">](https://github.com/AniruddhaGawali/light/blob/master/data/img/img3.png)
 	
 	
 
