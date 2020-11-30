@@ -110,6 +110,11 @@ def think(command,chatbox):
         now = datetime.datetime.now()
         chatbox.insert(INSERT, f'YOU : {command}\n','p')
         chatbox.insert(INSERT,f'BOT : Current time is {now.strftime("%H:%M:%S")}\n','b') 
+    elif  command in ['Take notes',"Add notes",'Make notes','Open notes','Open note','Take note',"Add note",'Make note']:
+        import subprocess
+        subprocess.run('explorer.exe shell:appsFolder\Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App')
+        chatbox.insert(INSERT, f'YOU : {command}\n','p')
+        chatbox.insert(INSERT,f'BOT : Opening Sticky Notes','b')
 
     else:
         chatbox.insert(INSERT, f'YOU : {command}\n','p')
